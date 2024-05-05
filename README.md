@@ -22,12 +22,12 @@ Initial release comes up with some known issues:
 
 ## Controls
 
-CROSS = 
-CIRCLE = 
-TRIANGLE = 
-SQUARE = 
-R1 = 
-R2 = 
+CROSS = Confirm
+CIRCLE = Cancel
+TRIANGLE = Inventory 
+SQUARE = Remove item from hand
+R1 = Stretching
+L1 = FPS meter
 LEFT_STICK = Moving
 RIGHT_STICK and TOUCHSCREEN = Fast travel
 
