@@ -9,7 +9,7 @@ This game runs slow, sound little bit glitchy when you see FPS drops and other F
 
 ## Functionality 
 
-This game runs and I guess you can complete it without broken stuff (in general I don't know about full functionality). Don't know about saves.
+This game runs and I guess you can complete it without broken stuff (in general I don't know about full functionality).
 
 
 ## Known problems 
@@ -18,7 +18,7 @@ Initial release comes up with some known issues:
 
 - Game is slow. I mean that this version have huge problems with FPS.
 - Glitchy sound when you encounter FPS drop
-- Broken saves?
+- Broken saves
 
 ## Controls
 
