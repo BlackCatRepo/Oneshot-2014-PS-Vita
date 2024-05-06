@@ -32,4 +32,5 @@ Initial release comes up with some known issues:
 
 **Full CPU Overclock is a necessary!**
 
-*If for some reason game not working try to install EasyRPG player from here: https://easyrpg.org/player/downloads/*
+*If for some reason game not working try to install EasyRPG player from here: https://easyrpg.org/player/downloads/
+Also I will try to make Russian language, but no promises*
