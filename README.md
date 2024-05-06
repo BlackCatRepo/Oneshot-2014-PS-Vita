@@ -4,7 +4,7 @@
 
 ## Technical notes
 
-This game runs slow, sound little bit glitchy when you see FPS drops and other FPS issues.
+This game runs slow, sound little bit glitchy when you see FPS drops and other FPS issues. **Saves not work so you have only ONE SHOT**
 
 
 ## Functionality 
