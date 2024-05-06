@@ -31,3 +31,5 @@ Initial release comes up with some known issues:
 - RIGHT_STICK and TRIANGLE = Fast travel
 
 **Full CPU Overclock is a necessary!**
+
+*If for some reason game not working try to install EasyRPG player from here: https://easyrpg.org/player/downloads/*
