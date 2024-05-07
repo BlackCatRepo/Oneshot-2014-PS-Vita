@@ -2,6 +2,11 @@
 
 **This game contains full version of Oneshot from 2014, please be sure to check this guy: https://foxfan-e.itch.io/newko-mod and this guy: https://github.com/cmaster25. They make this game possible run on Android or Wii with new Niko sprites. So I decided to try this one on Vita and it's worked! You can find this version with old sprites on itch.io (but it's not working on Vita lol)**
 
+## Description 
+
+Help a little child named Niko navigate a mysterious underground world, solve various puzzles and discover the truth about this place! And remember... you have only **ONE SHOT** for this.
+
+
 ## Technical notes
 
 This game runs slow, sound little bit glitchy when you see FPS drops and other FPS issues. **Saves not work so you have only ONE SHOT**
