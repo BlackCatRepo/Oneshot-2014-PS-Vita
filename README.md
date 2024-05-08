@@ -1,6 +1,6 @@
 # Oneshot (2014) "port" for PS VITA
 
-**This game contains full version of Oneshot from 2014, please be sure to check this guy: https://foxfan-e.itch.io/newko-mod and this guy: https://github.com/cmaster25. They make this game possible run on Android or Wii with new Niko sprites. So I decided to try this one on Vita and it's worked! You can find this version with old sprites on itch.io (but it's not working on Vita lol)**
+**This game contains full version of Oneshot from 2014, please be sure to check this guy: https://foxfan-e.itch.io/newko-mod and this guy: https://github.com/cmaster25. They make this game possible to run on Android or Wii with new Niko sprites. So I decided to try this one on Vita and it's worked! You can find this version with old sprites on itch.io (but it's not working on Vita lol)**
 
 ## Description 
 
